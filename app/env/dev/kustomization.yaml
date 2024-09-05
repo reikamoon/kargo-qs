@@ -8,4 +8,4 @@ namespace: guestbook-simple-dev
 
 images:
 - name: ghcr.io/reikamoon/guestbook
-  newTag: v0.0.2
+  newTag: v0.0.3
